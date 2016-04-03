@@ -2,7 +2,8 @@
 lock "3.3.5"
 
 set :application, "static-site"
-set :repo_url, "https://github.com/NREL/api-umbrella-static-site.git"
+set :repo_url, "https://github.com/ResumeServices/api-umbrella-static-site.git"
+#set :repo_url, "https://github.com/NREL/api-umbrella-static-site.git"
 set :branch, "master"
 
 # Default deploy_to directory is /var/www/my_app
